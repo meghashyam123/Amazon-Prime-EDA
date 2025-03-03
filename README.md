@@ -7,26 +7,46 @@
 🚀 Project Highlights
 
 🔹 Data Cleaning & Preprocessing – Handling missing values, duplicate entries, and ensuring data integrity.
+
 🔹 Genre & Content Trends – What types of content dominate Prime Video? Movies vs. TV Shows?
+
 🔹 IMDb Ratings & User Preferences – Do higher-rated movies follow a pattern?
+
 🔹 Country-Wise Content Distribution – Which countries contribute the most content?
+
 🔹 Release Year Analysis – Is Prime focusing on newer content or old classics?
+
 🔹 Visualizing Insights – Beautiful plots and interactive charts for better understanding.
+
+
 
 📈 Tech Stack --
 
 ✅ Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
+
 ✅ Jupyter Notebook for EDA
+
 ✅ Data sourced from Kaggle/Amazon Prime dataset
+
+
 
 🔍 Findings & Insights
 
 💡 Most of Amazon Prime's content comes from the United States & India.
+
 💡 TV Shows are generally higher-rated than movies.
+
 💡 Comedy & Drama dominate as the most popular genres.
+
 💡 Amazon Prime has been focusing on recent releases (post-2010) more than classics.
 
+
+
+
 🎯 Next Steps
+
 📌 Sentiment Analysis on Amazon Prime reviews
+
 📌 Predictive modeling for content success
+
 📌 Comparing Amazon Prime with Netflix & Disney+
