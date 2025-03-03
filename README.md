@@ -23,7 +23,7 @@
 
 
 
-📈 Tech Stack --
+📈 Tech Stack 
 
 ✅ Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
 
@@ -46,6 +46,8 @@
 
 💡 Amazon Prime has been focusing on recent releases (post-2010) more than classics.
 
+
+-----
 
 
 
